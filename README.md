@@ -19,8 +19,8 @@
 </p>
 ---
 
-### 📫 Connect with me
- :e-mail: Email: Parsayeganegi09@gmail.com
+### 📫 You can give me your tpught with:
+- :e-mail: Email: Parsayeganegi09@gmail.com
 - :camera: Instagram: https://www.instagram.com/parsa-code09
 - :movie_camera: YouTube: *Coming Soon*  
 - :computer: GitHub: [github.com/parsayg](https://github.com/parsayg)
