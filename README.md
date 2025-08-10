@@ -19,10 +19,9 @@
 ---
 
 ### 📫 Connect with me
-- 📧 Email: Parsayeganegi09@gmail.com
-- 📷 Instagram: https://www.instagram.com/parsa-code09
-- 🎥 YouTube: *Coming Soon*  
-- 💻 GitHub: [github.com/parsayg](https://github.com/parsayg)
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](parsayeganegi09@gmail.com)
+[![Instagram](https://img.icons8.com/ios-filled/30/000000/instagram-new.png)](https://instagram.com/parsa-code09)
+
 
 ---
 
