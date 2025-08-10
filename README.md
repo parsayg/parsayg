@@ -2,7 +2,7 @@
 
 💻 I'm a passionate learner exploring the world of Python and Web Development.  
 
-🌱 Currently improving my skills in HTML, CSS, JavaScript, and Python.  
+🌱 Currently improving my skills in HTML, CSS and Python.  
 
 🚀 My focus is on building creative and functional projects that make learning fun.  
 
