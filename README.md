@@ -21,7 +21,7 @@
 
 ---
 
-### 📫 You can give me your tpught with:
+### 📫 You can give me your tought with:
 - :e-mail: Email: Parsayeganegi09@gmail.com
 - :camera: Instagram: https://www.instagram.com/pyg_2009
 - :movie_camera: YouTube: https://www.youtube.com/@ParsaYeganegi 
