@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 <p align="right">
-  <img src="https://github.com/parsayg/parsayg/blob/main/file_00000000b80c6243a56f5c6c30fbcf36.png?raw=true" alt="Error" width="300"/>
+  <img src="https://github.com/parsayg/parsayg/blob/main/file_00000000b80c6243a56f5c6c30fbcf36.png?raw=true" alt="Error" width="150"/>
 </p>
 ---
 
