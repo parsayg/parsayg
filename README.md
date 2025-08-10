@@ -1,15 +1,11 @@
 # Hi, I'm Parsa
+  <img src="https://github.com/parsayg/parsayg/blob/main/IMG_20250810_200749_868.png?raw=true" alt="Error" width="300" align="right"/>
 
 💻 I'm a passionate learner exploring the world of Python and Web Development.  
 
 🌱 Currently improving my skills in HTML, CSS and Python.  
 
 🚀 My focus is on building creative and functional projects that make learning fun.  
-
----
-<p align="right">
-  <img src="https://github.com/parsayg/parsayg/blob/main/IMG_20250810_200749_868.png?raw=true" alt="Error" width="300"/>
-</p>
 
 ---
 ### 🔧 Technologies & Tools
