@@ -31,6 +31,6 @@
 
 ---
 
-###Every comeback is possible 
-it's all about your mindset
+### Every comeback is possible 
+it's all about your<b> mindset</b>
 
