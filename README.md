@@ -5,9 +5,10 @@
 
 ### 👋 Hey, I'm Parsa
 💻 New Programmer passionate about learning and building with:
-- 🐍 Python  
-- 🌐 HTML  
-- 🎨 CSS  
+
+- 🐍 Python - my main coding superpower
+- 🌐 HTML - buildingthe skeleyon of my web
+- 🎨 CSS - adding colorsto my code
 
 ---
 
