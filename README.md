@@ -1,25 +1,33 @@
-# Hey, I'm Parsa
-<p algin="center">
-  <img src="https://github.com/parsayg/parsayg/blob/main/ChatGPT%20Image%20Aug%2011,%202025,%2003_15_45%20PM.png?raw=true" alt="Error" width="300"  />
-  <sub>- This me, but bug-free!</sub>
-</p>
+<!-- Profile README -->
 
-- My currently info:
-  
-💻 I'm a passionate learner exploring the world of Python and Web Development.  
-
-🌱 Currently improving my skills in HTML, CSS and Python.  
-
-🚀 My focus is on building creative and functional projects that make learning fun.  
+<h1 align="center">💬 No risk, no story</h1>
 
 ---
-### 🔧 Technologies & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+### 👋 Hey, I'm Parsa
+💻 New Programmer passionate about learning and building with:
+- 🐍 Python  
+- 🌐 HTML  
+- 🎨 CSS  
+
+---
+
+### 🛠 My Toolbox
+> The essentials I use (and keep improving):
+🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ Git
+
+---
+
+### 🎯 Fun Facts
+- 📚 Always learning something new  
+- ☕ Coffee makes my code better (at least I think so)  
+- 🎮 Dreaming of making my own story-driven game one day  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Dark%20Mode-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown"/>
 </p>
-
-
 
 
