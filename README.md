@@ -14,7 +14,7 @@
 
 ### 🛠 My Toolbox
 > The essentials I use (and keep improving):
-> Python | HTML | CSS | Git
+> Python | HTML | CSS 
 
 
 
