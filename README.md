@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">💬 No risk, no story</h1>
+<h1 align="center">💬Novice programmer</h1>
 <img src="https://github.com/parsayg/parsayg/blob/main/file_00000000cbec61fd87fac4146d3e0a8b.png?raw=true" alt="py" width="160" align="right"/>
 
 ### 👋 Hey, I'm Parsa
