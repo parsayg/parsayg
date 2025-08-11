@@ -1,6 +1,6 @@
 # Hey, I'm Parsa
 <p algin="center">
-  <img src="https://github.com/parsayg/parsayg/blob/main/IMG_20250810_200749_868.png?raw=true" alt="Error" width="300"  />
+  <img src="https://github.com/parsayg/parsayg/blob/main/ChatGPT%20Image%20Aug%2011,%202025,%2003_15_45%20PM.png?raw=true" alt="Error" width="300"  />
   <sub>- This me, but bug-free!</sub>
 </p>
 
