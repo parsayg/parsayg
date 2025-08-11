@@ -18,7 +18,7 @@
 
 ---
 
-### Currentlyworking on :
+### Currently working on :
 - learning python opp
 - my small project with HTML & CSS
 
