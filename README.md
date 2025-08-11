@@ -30,7 +30,7 @@
 - 🎮 Dreaming of making my own story-driven game one day  
 
 ---
-### you can share your opinin with by:
+### you can give me your tought with:
 - :e-mail: Email: Parsayeganegi09@gmail.com
 - :camera: Instagram: https://www.instagram.com/pyg_2009
 
