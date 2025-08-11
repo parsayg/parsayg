@@ -5,6 +5,7 @@
 </p>
 
 - My currently info:
+  
 💻 I'm a passionate learner exploring the world of Python and Web Development.  
 
 🌱 Currently improving my skills in HTML, CSS and Python.  
