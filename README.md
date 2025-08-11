@@ -14,7 +14,13 @@
 
 ### 🛠 My Toolbox
 > The essentials I use (and keep improving):
-🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ Git
+1.Python |2. HTML |3. CSS |4. Git
+
+---
+
+### Currentlyworking on :
+- learning python opp
+- my small project with HTML & CSS
 
 ---
 
