@@ -30,6 +30,11 @@
 - 🎮 Dreaming of making my own story-driven game one day  
 
 ---
+### you can share your opinin with by:
+- :e-mail: Email: Parsayeganegi09@gmail.com
+- :camera: Instagram: https://www.instagram.com/pyg_2009
+
+---
 
 ### Every comeback is possible 
 it's all about your<b> *mindset*</b>
