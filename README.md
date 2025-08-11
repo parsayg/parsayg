@@ -1,8 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">💬 No risk, no story</h1>
-
----
+<img src="https://github.com/parsayg/parsayg/blob/main/file_00000000cbec61fd87fac4146d3e0a8b.png?raw=true" alt="py" width="300"/>
 
 ### 👋 Hey, I'm Parsa
 💻 New Programmer passionate about learning and building with:
